@@ -1,0 +1,44 @@
+.heading
+{
+    width:100%;
+    text-align: left;
+}
+.heading h3
+{
+    display:inline;
+}
+.heading button
+{
+    float:right;
+    border: 1px solid white;
+}
+#start
+{
+    font-size: 25px;
+}
+#status
+{
+    font-size: 25px;
+}
+img{
+    width: 30%;
+}
+#canvas{
+    margin: 70%;
+}
+.copy_right_footer {
+    position: fixed;
+    color:honeydew;
+    bottom: 0;
+    width: 100%;
+    background-color:palevioletred;
+    line-height: 3;
+    text-align: center;
+      font-family: 'Special Elite', cursive;
+ 
+ }
+ .res{
+     width: 100%;
+     margin-bottom:40px;
+     font-size: large;
+ }
